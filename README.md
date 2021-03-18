@@ -16,11 +16,7 @@ Passionate about technology and always looking to learn, I entered the Bachelor'
 <br>
 <br>
 
-![Anurag's github stats](
-
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=paulohepimentel&show_icons=true&count_private=true&layout=compact&hide=stars&include_all_commits=true&theme=default)" />
-
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulohepimentel&layout=compact)" />
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=paulohepimentel&show_icons=true&count_private=true&layout=compact&hide=stars&include_all_commits=true&theme=default)" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulohepimentel&layout=compact)" />
 
 </div>
 
