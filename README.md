@@ -5,7 +5,7 @@
 
 Passionate about technology and always looking to learn, I entered the Bachelor's Degree in Computer Science in 2016, encouraged by curiosity and the desire to be part of this field capable of impacting everyone in all ways.
 
-- 🌱 I’m currently learning ReactJS, React Native and NodeJS
+- 🌱 I’m always learning ...
 - ⚡ Fun fact: Drinking too much coffee makes me have headaches!
 - 💬 Ask me what you want, let's talk, share experiences
 - 😄 Pronouns: PH, Paulo
