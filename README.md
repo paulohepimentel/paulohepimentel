@@ -9,10 +9,6 @@ Passionate about technology and always looking to learn, I entered the Bachelor'
 - 💬 Ask me what you want, let's talk, share experiences
 - 😄 Pronouns: PH, Paulo
 
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=paulohepimentel&show_icons=true&count_private=true&layout=compact&hide=stars&include_all_commits=true&theme=default)" />
-
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulohepimentel&layout=compact)" />
-
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
