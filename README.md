@@ -2,7 +2,6 @@
 
 <img align="left" hspace="50" vspace="50" width="200" height="200" src="https://github.com/paulohepimentel/paulohepimentel/blob/master/myoctocat.png">
 
-
 Passionate about technology and always looking to learn, I entered the Bachelor's Degree in Computer Science in 2016, encouraged by curiosity and the desire to be part of this field capable of impacting everyone in all ways.
 
 - 🌱 I’m always learning ...
@@ -10,15 +9,9 @@ Passionate about technology and always looking to learn, I entered the Bachelor'
 - 💬 Ask me what you want, let's talk, share experiences
 - 😄 Pronouns: PH, Paulo
 
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=paulohepimentel&show_icons=true&count_private=true&layout=compact&hide=stars&include_all_commits=true&theme=default)" />
 
-
-<div align="center">
-<br>
-<br>
-
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=paulohepimentel&show_icons=true&count_private=true&layout=compact&hide=stars&include_all_commits=true&theme=default)" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulohepimentel&layout=compact)" />
-
-</div>
+<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulohepimentel&layout=compact)" />
 
 <!--
 - 🔭 I’m currently working on ...
